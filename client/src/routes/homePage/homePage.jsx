@@ -14,10 +14,10 @@ function HomePage() {
         <div className="wrapper">
           <h1 className="title">Find Real Estate & Get Your Dream Place</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-            explicabo suscipit cum eius, iure est nulla animi consequatur
-            facilis id pariatur fugit quos laudantium temporibus dolor ea
-            repellat provident impedit!
+          At HomeSpot, we understand that finding the perfect property
+           can be overwhelming. That’s why we’re dedicated to making the process as 
+           easy and hassle-free as possible. Our streamlined approach ensures you can 
+           focus on what matters most – discovering your dream home or investment!
           </p>
           <SearchBar />
           <div className="boxes">
